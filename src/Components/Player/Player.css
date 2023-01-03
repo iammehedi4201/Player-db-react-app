@@ -1,0 +1,6 @@
+.player-card-sizing{
+    width: 100%!important;
+    min-height:80vh;
+    padding: 20px;
+    border: 2px solid red!important;
+}

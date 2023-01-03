@@ -1,0 +1,17 @@
+.About-section{
+ 
+   border: 2px solid red;
+    padding: 20px;
+
+}
+.about-img-sizing{
+
+   width: 85%;
+   height: 100vh;
+
+}
+.about-details{
+    display: grid;
+    place-content: center;
+
+}
